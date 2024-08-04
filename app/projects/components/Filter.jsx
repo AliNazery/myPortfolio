@@ -1,3 +1,5 @@
+"use client"
+
 import { useRef, useState } from "react";
 import { LazyMotion, domAnimation, useInView } from "framer-motion";
 import { TbBrandJavascript, TbBrandNextjs } from "react-icons/tb";
